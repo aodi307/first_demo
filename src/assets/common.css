@@ -1,0 +1,19 @@
+
+html,body,#app{
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  overflow: hidden;
+}
+
+.el-menu li a{
+  color: #fff;
+}
+
+/*.el-menu li a.is-actives,.el-menu li a.is-actives i{*/
+/*  color: #CCFF40!important;*/
+/*}*/
+.el-menu-vertical-demo:not(.el-menu--collapse) {
+  width: 201px;
+  min-height: 400px;
+}
